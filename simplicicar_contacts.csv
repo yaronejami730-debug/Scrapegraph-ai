@@ -1,0 +1,129 @@
+ville,url,adresse,gerant,email,telephone
+meximieux,https://www.simplicicar.com/content/11-concession-meximieux,"11 Imp. de la Leppe,
+01800 Meximieux",,,06 74 29 31 79
+soissons,https://www.simplicicar.com/content/100-concession-soissons,"140 Rte de Reims,
+02200 Billy sur Aisne",,,03 60 71 99 46
+vichy,https://www.simplicicar.com/content/103-concession-vichy,"15 Bd d'Alsace Lorraine,
+03300 Cusset",,,06 80 17 39 95
+cannes,https://www.simplicicar.com/content/106-concession-cannes,"82 Av. Maréchal Juin,
+06400 Cannes",,,07 88 42 62 88
+nice,https://www.simplicicar.com/content/109-concession-nice,"76 Av. des Baumettes,
+06000 Nice",Messieurs Vital,,"06 67 59 54 06, 09.2006-12.20"
+pamiers,https://www.simplicicar.com/content/770-concession-pamiers,"262E rue André-Marie Ampère 
+09120 Varilhes",,,06 99 45 84 24
+troyes,https://www.simplicicar.com/content/112-concession-troyes,"17 Rue des Valères,
+10600 Barberey-Saint-Sulpice",,,06 69 09 14 29
+carcassonne,https://www.simplicicar.com/content/115-concession-carcassonne,"70 All. Gilles de Roberval,
+11000 Carcassonne",,,06 87 76 85 66
+narbonne,https://www.simplicicar.com/content/118-concession-narbonne,"24 Av. du Champ de Mars,
+11100 Narbonne",,,06 87 62 32 02
+rodez,https://www.simplicicar.com/content/793-concession-rodez,"44 Rte de Sévérac,
+12850 Onet-le-Château",,,06 10 13 07 06
+la-ciotat,https://www.simplicicar.com/content/121-concession-la-ciotat,"564 Av. des Rosiers,
+13600 La Ciotat",,,07 85 61 47 28
+marignane,https://www.simplicicar.com/content/124-concession-marignane,"6 Voie de l'Irlande,
+13127 Vitrolles",,,07 49 28 83 19
+salon,https://www.simplicicar.com/content/128-concession-salon,"335 Rue du Remoulaire,
+13300 Salon-de-Provence",,,06 99 05 59 07
+caen,https://www.simplicicar.com/content/131-concession-caen,"All. du Grand Clos ZA le,
+14320 Saint-André-sur-Orne",,,02 31 38 84 19
+royan,https://www.simplicicar.com/content/134-concession-royan,"17 Rue Gustave Eiffel,
+17200 Saint-Sulpice-de-Royan",,,05 46 36 83 85
+brive,https://www.simplicicar.com/content/137-concession-brive,"1 Rue Henri de Montherlant,
+19360 Malemort",,,05 55 74 91 53
+beaune,https://www.simplicicar.com/content/140-concession-beaune,"170 ZA les Bruottees,
+21200 Vignoles",,,03 80 21 24 25
+dijon,https://www.simplicicar.com/content/143-concession-dijon,"1633 Rte de Gray,
+21850 Saint-Apollinaire",,,06 73 73 30 38
+besancon,https://www.simplicicar.com/content/146-concession-besancon,"1 Rue Robert Schuman,
+25410 Saint-Vit",,,03 81 51 42 01
+pontarlier,https://www.simplicicar.com/content/149-concession-pontarlier,"23 Rue Dr Jean Michel,
+25300 Vuillecin",,,03 70 88 67 20
+valence,https://www.simplicicar.com/content/152-concession-valence,"93 Rue Léon Gaumont,
+26000 Valence",,,06 32 00 12 88
+evreux,https://www.simplicicar.com/content/155-concession-evreux,"563 Rue Gay Lussac,
+27000 Évreux",,,06 59 23 67 07
+vernon,https://www.simplicicar.com/content/158-concession-vernon,"8 Av. Winston Churchill,
+27200 Vernon",,,06 65 72 60 34
+brest,https://www.simplicicar.com/content/161-concession-brest,"5 Rue Eugène Bourdon,
+29490 Guipavas",,,06 23 73 32 06
+nimes,https://www.simplicicar.com/content/164-concession-nimes,"200 Avenue Maurice Trintignant,
+30900 Nîmes",Messieurs Buisson,,04 11 71 98 33
+vauvert,https://www.simplicicar.com/content/167-concession-vauvert,"519 Av. Côté Soleil,
+30600 Vauvert",,,06 75 98 37 65
+https://www.simplicicar.com/content/170-oncession-st-gaudens,https://www.simplicicar.com/content/170-oncession-st-gaudens,"24 Av. du Maréchal Foch,
+31800 Labarthe-Rivière",,,05 62 00 34 47
+toulouse-nord,https://www.simplicicar.com/content/173-concession-toulouse-nord,"109 Rte de Paris,
+31150 Fenouillet",,,07 60 69 14 14
+toulouse-sud,https://www.simplicicar.com/content/176-concession-toulouse-sud,"7 Bis Chem. des Moles,
+31120 Pinsaguel",,,06 68 49 61 87
+merignac,https://www.simplicicar.com/content/179-concession-merignac,"6 Avenue Andromède
+33160 Saint-Médard-en-Jalles",,,06 49 50 99 08
+montpellier,https://www.simplicicar.com/content/182-concession-montpellier,"85 Rue Rosa Luxemburg,
+34070 Montpellier",,,07 69 60 41 64
+rennes,https://www.simplicicar.com/content/185-concession-rennes,"Rue du Courtil,
+35170 Bruz",,,02 23 44 78 20
+tours,https://www.simplicicar.com/content/188-concession-tours,"5 Les Cinq Arpents,
+37250 Sorigny",,,02 47 35 91 59
+nord-isere,https://www.simplicicar.com/content/629-concession-nord-isere,"71 Route de Loyettes,
+38230 Tignieu-Jameyzieu",,,06 70 09 58 72
+vienne,https://www.simplicicar.com/content/194-concession-vienne,"85 Rte de la Sévenne,
+38200 Vienne",,,04 82 62 91 62
+veauche,https://www.simplicicar.com/content/197-concession-veauche,"5 Bis Rue Edouard Garet,
+42160 Andrézieux-Bouthéon",,,06 88 57 15 18
+moto-veauche,https://www.simplicicar.com/content/615-concession-moto-veauche,"33 Ave de la Libération,
+42340 Veauche",,,06 67 51 20 24
+puy-en-velay,https://www.simplicicar.com/content/200-concession-puy-en-velay,"354 Rue Jean-Baptiste Lamarck,
+43700 Saint-Germain-Laprade",,,"04.2008-12.20, 09 70 50 41 51"
+orleans,https://www.simplicicar.com/content/203-concession-orleans,"Batiment 2,
+45750 Saint-Pryvé-Saint-Mesmin",Messieurs Thauvin,,06 71 92 39 61
+angers,https://www.simplicicar.com/content/206-concession-angers,"12 Av. du Pin,
+49070 Beaucouzé",,,07 64 45 55 41
+reims,https://www.simplicicar.com/content/209-concession-reims,"152 Av. du Champ Paveau,
+51430 Tinqueux",,,06 71 20 84 60
+nancy,https://www.simplicicar.com/content/212-concession-nancy,"1 Rue Théophraste Renaudot,
+54180 Houdemont",,,"06 32 60 22 97, 07.2010-02.20"
+lorient,https://www.simplicicar.com/content/625-concession-lorient,"12 Rue Lavoisier,
+56530 Quéven",,,02 97 59 83 77
+vannes,https://www.simplicicar.com/content/215-concession-vannes,"12 Rue Duguay Trouin,
+56450 Theix-Noyalo",Messieurs Lesueur,,02 97 01 32 74
+dunkerque,https://www.simplicicar.com/content/218-concession-dunkerque,"252 Bis Rte du Chapeau Rouge,
+59229 Téteghem-Coudekerque-Village",,,06 11 77 33 33
+lille,https://www.simplicicar.com/content/221-concession-lille,"33 rue Bernard Ruyant,
+59110 La Madeleine",,,03 20 77 44 79
+beauvais,https://www.simplicicar.com/content/224-concession-beauvais,"20 Av. Blaise Pascal,
+60000 Beauvais",,,06 85 56 32 45
+compiegne,https://www.simplicicar.com/content/227-concession-compiegne,"3 Rue Ferdinand de Lesseps,
+60200 Compiègne",,,03 74 47 49 19
+st-maximin,https://www.simplicicar.com/content/230-concession-st-maximin,"Rue Albert Einstein,
+60740 Saint-Maximin",Messieurs Petit,,03 44 26 02 97
+arras,https://www.simplicicar.com/content/234-concession-arras,"Av. d'Immercourt,
+62223 Saint-Laurent-Blangy",,,09 74 97 21 45
+saint-omer,https://www.simplicicar.com/content/373-concession-saint-omer,"4 Rte de Blendecques,
+62219 Longuenesse",,,06 74 29 31 79
+pau,https://www.simplicicar.com/content/237-concession-pau,"750 Rue de la Vall. d'Ossau,
+64121 Serres-Castet",,,05 59 02 90 76
+perpignan,https://www.simplicicar.com/content/240-concession-perpignan,"16 Rue du Paradis,
+66200 Alénya",,,09 78 80 70 05
+strasbourg,https://www.simplicicar.com/content/243-concession-strasbourg,"1 Rue Bernard Stalter,
+67114 Eschau",,,06 42 79 24 91
+colmar,https://www.simplicicar.com/content/248-concession-colmar,"Rue du Parc,
+68125 Houssen",Messieurs Waller,,03 89 77 03 14
+lyon-nord,https://www.simplicicar.com/content/251-concession-lyon-nord,"150 Rue Ampère,
+69730 Genay",,,06 80 81 52 31
+lyon-ouest,https://www.simplicicar.com/content/254-concession-lyon-ouest,"7 Chem. de Sacuny,
+69530 Brignais",,,04 87 61 14 20
+st-priest,https://www.simplicicar.com/content/729-concession-st-priest,"1 Avenue du Progrès
+69800 Saint-Priest",,,06 65 72 78 91
+la-fleche,https://www.simplicicar.com/content/257-concession-la-fleche,"14 Av. de Verdun,
+72200 La Flèche",,,02 43 96 15 18
+aix-les-bains,https://www.simplicicar.com/content/264-concession-aix-les-bains,"400 Rue de l'Érier,
+73290 La Motte-Servolex",,,04 79 79 15 39
+annecy,https://www.simplicicar.com/content/267-concession-annecy,"27 Rte de Nanfray,
+74960 Annecy",,,04 28 38 59 98
+genevois,https://www.simplicicar.com/content/272-concession-genevois,"370 Ave des Jourdies
+74800 Saint Pierre en Faucigny",,,04 50 25 28 99
+paris-15,https://www.simplicicar.com/content/275-concession-paris-15,"1 Vla Croix Nivert,
+75015 Paris",,,07 60 84 43 32
+paris-17eme,https://www.simplicicar.com/content/278-concession-paris-17eme,"95 Av. des Ternes,
+75017 Paris",,,01 40 68 76 10
